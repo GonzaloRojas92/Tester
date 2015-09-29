@@ -19,6 +19,7 @@ public class JavaApplication3
     {
         // TODO code application logic here
         System.out.println("hello world");
+        System.out.println("say othe word plz :c");
     }
     
 }
